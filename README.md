@@ -1,2 +1,2 @@
-# Mars-Web-AdminPanel-F-nder
+# Mars-Web-AdminPanel-Finder
 Web site Admın Panel Girişi Bulucu 
