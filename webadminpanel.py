@@ -1,5 +1,5 @@
-# alsancakcyberteam # 
-# MR.ROBOT #
+
+
 # Mars #
 # https://github.com/Mars0J #
 
